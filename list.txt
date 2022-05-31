@@ -1,0 +1,3 @@
+echo
+list.txt
+text.txt
